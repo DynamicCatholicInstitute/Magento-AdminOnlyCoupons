@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <DCI_Adminonlycoupons>
+            <active>true</active>
+            <codePool>local</codePool>
+        </DCI_Adminonlycoupons>
+    </modules>
+</config>
